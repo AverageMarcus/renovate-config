@@ -5,8 +5,8 @@
         "victoriametrics/vmalert",
         "victoriametrics/vmagent",
         "victoriametrics/vminsert",
-        "victoriametrics/select",
-        "victoriametrics/storage"
+        "victoriametrics/vmselect",
+        "victoriametrics/vmstorage"
       ],
       "sourceUrl": "https://github.com/VictoriaMetrics/VictoriaMetrics"
     },
