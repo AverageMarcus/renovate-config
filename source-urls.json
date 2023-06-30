@@ -1,0 +1,42 @@
+{
+  "packageRules": [
+    {
+      "packageNames": [
+        "victoriametrics/vmalert",
+        "victoriametrics/vmagent",
+        "victoriametrics/vminsert",
+        "victoriametrics/select",
+        "victoriametrics/storage"
+      ],
+      "sourceUrl": "https://github.com/VictoriaMetrics/VictoriaMetrics"
+    },
+    {
+      "packageNames": ["registry.k8s.io/kube-state-metrics/kube-state-metrics"],
+      "sourceUrl": "https://github.com/kubernetes/kube-state-metrics"
+    },
+    {
+      "packageNames": ["registry.k8s.io/sig-storage/csi-provisioner"],
+      "sourceUrl": "https://github.com/kubernetes-csi/external-provisioner"
+    },
+    {
+      "packageNames": ["registry.k8s.io/sig-storage/livenessprobe"],
+      "sourceUrl": "https://github.com/kubernetes-csi/livenessprobe"
+    },
+    {
+      "packageNames": ["grafana/grafana"],
+      "sourceUrl": "https://github.com/grafana/grafana"
+    },
+    {
+      "packageNames": ["ghcr.io/tailscale/tailscale"],
+      "sourceUrl": "https://github.com/tailscale/tailscale"
+    },
+    {
+      "packageNames": ["ghcr.io/dgtlmoon/changedetection.io"],
+      "sourceUrl": "https://github.com/dgtlmoon/changedetection.io"
+    },
+    {
+      "packageNames": ["gitpod/openvscode-server"],
+      "sourceUrl": "https://github.com/gitpod-io/openvscode-server"
+    }
+  ]
+}
