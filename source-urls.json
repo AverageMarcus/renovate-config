@@ -37,6 +37,10 @@
     {
       "packageNames": ["gitpod/openvscode-server"],
       "sourceUrl": "https://github.com/gitpod-io/openvscode-server"
+    },
+    {
+      "packageNames": ["kizaing/kavita"],
+      "sourceUrl": "https://github.com/Kareadita/Kavita"
     }
   ]
 }
