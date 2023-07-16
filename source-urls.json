@@ -39,6 +39,11 @@
       "sourceUrl": "https://github.com/gitpod-io/openvscode-server"
     },
     {
+      "packageNames": ["ghcr.io/linuxserver/prowlarr"],
+      "sourceUrl": "https://github.com/linuxserver/docker-prowlarr",
+      "datasourceTemplate": "github-releases"
+    },
+    {
       "packageNames": ["kizaing/kavita"],
       "sourceUrl": "https://github.com/Kareadita/Kavita"
     }
