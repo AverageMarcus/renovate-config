@@ -41,7 +41,8 @@
     {
       "packageNames": ["ghcr.io/linuxserver/prowlarr"],
       "sourceUrl": "https://github.com/linuxserver/docker-prowlarr",
-      "respectLatest": true
+      "respectLatest": true,
+      "allowedVersions": "<=1.8.1200 || >=1.9.0"
     },
     {
       "packageNames": ["kizaing/kavita"],
