@@ -55,6 +55,10 @@
     {
       "packageNames": ["kizaing/kavita"],
       "sourceUrl": "https://github.com/Kareadita/Kavita"
+    },
+    {
+      "packageNames": ["bitnami/sealed-secrets-controller"],
+      "sourceUrl": "https://github.com/bitnami-labs/sealed-secrets"
     }
   ]
 }
