@@ -15,6 +15,10 @@
       "sourceUrl": "https://github.com/kubernetes/kube-state-metrics"
     },
     {
+      "packageNames": ["registry.k8s.io/autoscaling/cluster-autoscaler"],
+      "sourceUrl": "https://github.com/kubernetes/autoscaler"
+    },
+    {
       "packageNames": ["registry.k8s.io/sig-storage/csi-provisioner"],
       "sourceUrl": "https://github.com/kubernetes-csi/external-provisioner"
     },
@@ -25,6 +29,10 @@
     {
       "packageNames": ["grafana/grafana"],
       "sourceUrl": "https://github.com/grafana/grafana"
+    },
+    {
+      "packageNames": ["quay.io/prometheus/node-exporter"],
+      "sourceUrl": "https://github.com/prometheus/node_exporter"
     },
     {
       "packageNames": ["ghcr.io/tailscale/tailscale"],
