@@ -57,7 +57,17 @@
       "sourceUrl": "https://github.com/Kareadita/Kavita"
     },
     {
-      "packageNames": ["bitnami/sealed-secrets-controller"],
+      "packageNames": [
+        "docker.io/bitnami/sealed-secrets-controller",
+        "bitnami/sealed-secrets-controller"
+      ],
+      "sourceUrl": "https://github.com/bitnami-labs/sealed-secrets"
+    },
+    {
+      "packageNames": [
+        "docker.io/bitnami/redis",
+        "bitnami/redis"
+      ],
       "sourceUrl": "https://github.com/bitnami-labs/sealed-secrets"
     }
   ]
