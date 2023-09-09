@@ -73,6 +73,10 @@
         "bitnami/redis"
       ],
       "sourceUrl": "https://github.com/bitnami-labs/sealed-secrets"
+    },
+    {
+      "packageNames": ["quay.io/oauth2-proxy/oauth2-proxy"],
+      "sourceUrl": "https://github.com/oauth2-proxy/oauth2-proxy"
     }
   ]
 }
