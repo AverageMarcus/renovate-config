@@ -77,6 +77,10 @@
     {
       "packageNames": ["quay.io/oauth2-proxy/oauth2-proxy"],
       "sourceUrl": "https://github.com/oauth2-proxy/oauth2-proxy"
+    },
+    {
+      "packageNames": ["nextcloud"],
+      "sourceUrl": "https://github.com/nextcloud/server/"
     }
   ]
 }
