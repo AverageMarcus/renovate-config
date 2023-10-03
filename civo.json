@@ -1,0 +1,16 @@
+{
+  "customDatasources": {
+    "civo-k3s": {
+      "defaultRegistryUrlTemplate": "https://civo-versions.cluster.fun/k3s/"
+    },
+    "civo-k3s-stable": {
+      "defaultRegistryUrlTemplate": "https://civo-versions.cluster.fun/k3s/stable/"
+    },
+    "civo-talos": {
+      "defaultRegistryUrlTemplate": "https://civo-versions.cluster.fun/talos/"
+    },
+    "civo-talos-stable": {
+      "defaultRegistryUrlTemplate": "https://civo-versions.cluster.fun/talos/stable/"
+    }
+  }
+}
