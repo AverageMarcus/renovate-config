@@ -8,7 +8,8 @@
         "victoriametrics/vmselect",
         "victoriametrics/vmstorage"
       ],
-      "sourceUrl": "https://github.com/VictoriaMetrics/VictoriaMetrics"
+      "sourceUrl": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "groupName": "VictoriaMetrics"
     },
     {
       "packageNames": ["registry.k8s.io/kube-state-metrics/kube-state-metrics"],
@@ -65,14 +66,16 @@
         "docker.io/bitnami/sealed-secrets-controller",
         "bitnami/sealed-secrets-controller"
       ],
-      "sourceUrl": "https://github.com/bitnami-labs/sealed-secrets"
+      "sourceUrl": "https://github.com/bitnami-labs/sealed-secrets",
+      "groupName": "Sealed-Secrets"
     },
     {
       "packageNames": [
         "docker.io/bitnami/redis",
         "bitnami/redis"
       ],
-      "sourceUrl": "https://github.com/bitnami-labs/sealed-secrets"
+      "sourceUrl": "https://github.com/bitnami-labs/sealed-secrets",
+      "groupName": "Redis"
     },
     {
       "packageNames": ["quay.io/oauth2-proxy/oauth2-proxy"],
