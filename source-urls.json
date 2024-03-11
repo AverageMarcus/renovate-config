@@ -84,6 +84,10 @@
     {
       "packageNames": ["nextcloud"],
       "sourceUrl": "https://github.com/nextcloud/server/"
+    },
+    {
+      "packageNames": ["ghcr.io/mealie-recipes/mealie"],
+      "sourceUrl": "https://github.com/mealie-recipes/mealie"
     }
   ]
 }
