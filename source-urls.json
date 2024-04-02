@@ -58,6 +58,10 @@
       "allowedVersions": "<=1.8.1200 || >=1.9.0"
     },
     {
+      "packageNames": ["ghcr.io/linuxserver/sonarr"],
+      "sourceUrl": "https://github.com/Sonarr/Sonarr"
+    },
+    {
       "packageNames": ["kizaing/kavita"],
       "sourceUrl": "https://github.com/Kareadita/Kavita"
     },
