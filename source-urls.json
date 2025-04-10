@@ -92,6 +92,10 @@
     {
       "packageNames": ["ghcr.io/mealie-recipes/mealie"],
       "sourceUrl": "https://github.com/mealie-recipes/mealie"
+    },
+    {
+      "packageNames": ["ghcr.io/ep1cman/unifi-protect-backup"],
+      "sourceUrl": "https://github.com/ep1cman/unifi-protect-backup"
     }
   ]
 }
