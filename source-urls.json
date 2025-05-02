@@ -100,7 +100,7 @@
     {
       "packageNames": ["lscr.io/linuxserver/mylar3"],
       "respectLatest": true,
-      "allowedVersions": "<=1000.0.0"
+      "allowedVersions": "<=1000.0.0 <5.9.5 || > 5.9.5"
     }
   ]
 }
