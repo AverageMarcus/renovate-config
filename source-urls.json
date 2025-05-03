@@ -100,7 +100,8 @@
     {
       "packageNames": ["lscr.io/linuxserver/mylar3"],
       "respectLatest": true,
-      "allowedVersions": "<=1000.0.0 <5.9.5 || > 5.9.5"
+      "allowedVersions": "<=1000.0.0 <5.9.5 || > 5.9.5",
+      "versionScheme": "regex:^(?<major>\\d)\\.(?<minor>\\d+)\\.(?<patch>\\d{1,3})$"
     }
   ]
 }
