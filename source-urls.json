@@ -98,6 +98,10 @@
       "sourceUrl": "https://github.com/ep1cman/unifi-protect-backup"
     },
     {
+      "packageNames": ["stickerdaniel/linkedin-mcp-server"],
+      "sourceUrl": "https://github.com/stickerdaniel/linkedin-mcp-server"
+    },
+    {
       "packageNames": ["lscr.io/linuxserver/mylar3"],
       "respectLatest": true,
       "allowedVersions": "<=1000.0.0 <5.9.5 || > 5.9.5",
