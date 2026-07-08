@@ -118,6 +118,14 @@
       "respectLatest": true,
       "allowedVersions": "<=1000.0.0 <5.9.5 || > 5.9.5",
       "versionScheme": "regex:^(?<major>\\d)\\.(?<minor>\\d+)\\.(?<patch>\\d{1,3})$"
+    },
+    {
+      "packageNames": [
+        "ghcr.io/xiao-villamor/printstash-api",
+        "ghcr.io/xiao-villamor/printstash-frontend"
+      ],
+      "sourceUrl": "https://github.com/xiao-villamor/PrintStash",
+      "groupName": "Printstash"
     }
   ]
 }
